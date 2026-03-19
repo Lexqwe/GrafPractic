@@ -1,2 +1,5 @@
-* -text
-* -text
+*.dll binary
+*.wasm binary
+*.dat binary
+*.blat binary
+*.pdb binary
