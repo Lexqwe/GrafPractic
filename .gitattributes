@@ -1,24 +1,4 @@
-# Бинарные файлы Blazor
-*.dll binary
-*.wasm binary
-*.dat binary
-*.blat binary
-*.pdb binary
-
-# Текстовые файлы
-*.cs text diff=csharp
-*.razor text
-*.css text
-*.js text
-*.json text
-*.html text
-*.md text
-*.gitattributes text
-*.gitignore text
-
-# Изображения
-*.png binary
-*.jpg binary
-*.jpeg binary
-*.ico binary
-*.svg binary
+* -text
+* -text
+* -text
+* -text
