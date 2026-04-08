@@ -5,19 +5,19 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>GrafPractic</title>
-    <base href="/GrafPractic/" />
-    <link rel="stylesheet" href="/GrafPractic/css/bootstrap/bootstrap.min.css" />
-    <link rel="stylesheet" href="/GrafPractic/css/app.css" />
-    <link rel="icon" type="image/png" href="/GrafPractic/favicon.png" />
-    <link href="/GrafPractic/GrafPractic.styles.css" rel="stylesheet" />
-    <link rel="stylesheet" href="/GrafPractic/_content/Radzen.Blazor/css/default-base.css">
+    <base href="/graf-practic/" />
+    <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/app.css" />
+    <link rel="icon" type="image/png" href="favicon.png" />
+    <link href="GrafPractic.styles.css" rel="stylesheet" />
+    <link rel="stylesheet" href="_content/Radzen.Blazor/css/default-base.css">
 </head>
 
 <body>
     <div id="app">
         <svg class="loading-progress">
-            <circle r="40%" cx="50%" cy="50%" fill="#none" stroke="#00a1ff" stroke-width="4" />
-            <circle r="40%" cx="50%" cy="50%" fill="#none" stroke="#61dafb" stroke-width="6" />
+            <circle r="40%" cx="50%" cy="50%" />
+            <circle r="40%" cx="50%" cy="50%" />
         </svg>
         <div class="loading-progress-text"></div>
     </div>
@@ -27,8 +27,9 @@
         <a href="" class="reload">Reload</a>
         <a class="dismiss">🗙</a>
     </div>
-    <script src="/GrafPractic/_content/Radzen.Blazor/Radzen.Blazor.js"></script>
-    <script src="/GrafPractic/_framework/blazor.webassembly.js"></script>
+    <script src="_content/Radzen.Blazor/Radzen.Blazor.js"></script>
+    <script src="_framework/blazor.webassembly.js" autostart="false"></script>
+    <script src="brotliloader.min.js" type="module"></script>
 </body>
 
 </html>
