@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "GrafPractic",
   "resources": {
-    "hash": "sha256-zMKLyGOx1Krz2XhlSwsfi4K2REvMWAbhJKF3vLFQv+o=",
+    "hash": "sha256-LNbfDvsrWF/BNlA1OlPOFC4dgMS4zILxVFpZ8ot0zHM=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-iEHWteCJvNWM2H+Ny98mYipws5oW1kBG2ctTcwGl98U="
     },
@@ -9,7 +9,7 @@
       "dotnet.runtime.js": "sha256-sRdYoaUiZmrqOtPGSBpgxZxxSQsILEw5kzx7dL4zlfw="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-zbLazfnoZSXX4n446+egpenfK0oMCimAoxpVnAtIDEc="
+      "dotnet.native.wasm": "sha256-RwecKXQVrZZOsSGE7fLE1EhLi9/5nGPK9t5E7dv6XSE="
     },
     "icu": {
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -64,7 +64,7 @@
       "System.Reflection.Primitives.wasm": "sha256-wGStcn/ERPwd6TFYDofT5kB8NlwyLK4lPdkjy7Ijk+Q=",
       "System.Runtime.InteropServices.JavaScript.wasm": "sha256-a7OLC5RpQy7RT6aQZ22rTXIPWtmdPedaiZgQRFdujxU=",
       "System.Runtime.InteropServices.wasm": "sha256-sZbZVQEAISquHH1FoR3oFBOraG3JcvWLNuav9teXMmc=",
-      "System.Runtime.wasm": "sha256-3UdM9JqPAz22pkgTHCh5/KBSAvNntzjNC8pNvbgqEM4=",
+      "System.Runtime.wasm": "sha256-ID1f2B3NaqUEQ+OlVj3ieHa8x0ygYdzCuvlNagZGZdE=",
       "System.Text.Encodings.Web.wasm": "sha256-9Kif14Ap6r0LzP/YbJAs2fQ6h88QbCchdybDqhqpzaQ=",
       "System.Text.Json.wasm": "sha256-RIYV0EmMWV7IwBdA11AFRIFR1Lj1RlJawX/iSUmAjok=",
       "System.Text.RegularExpressions.wasm": "sha256-9C72hd72ONc49VlrfO9MbYKIzcF+fJZTYIKkC3LOGaE=",
@@ -73,8 +73,8 @@
       "System.Xml.Linq.wasm": "sha256-nNsjxqgQxbRKUvV9qaStxxOo/fpoILr8euXnpmop+Vo=",
       "System.Xml.XDocument.wasm": "sha256-SkLHxRQDuXPkfKcHzgklZJ6wYmviCZFB5TDXD7XqeSs=",
       "System.wasm": "sha256-25KTxVbx+rD8S9iyUye7jmbj1e4TZ5Ca+elup4oegJA=",
-      "System.Private.CoreLib.wasm": "sha256-DgfvkvSJ/aPtjbyu7OJ9ZAjy5WcAUSa+qTWWEQT6inA=",
-      "GrafPractic.wasm": "sha256-4vyaXySIph0Kg3fMs86AsmbWGfMDRXAcUqcKHkpSNTk="
+      "System.Private.CoreLib.wasm": "sha256-601QbluUzGxrleDH8W/xStFxx3y8NOXEeqsH2oz4yaM=",
+      "GrafPractic.wasm": "sha256-FaS3SbzZLW7H7TKmvynUaNO6EiK2x4nzUn6TR67sKDg="
     }
   },
   "cacheBootResources": true,
