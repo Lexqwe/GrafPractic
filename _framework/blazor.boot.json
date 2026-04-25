@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "GrafPractic",
   "resources": {
-    "hash": "sha256-LNbfDvsrWF/BNlA1OlPOFC4dgMS4zILxVFpZ8ot0zHM=",
+    "hash": "sha256-VjZfnMHbvcmJMsfDs8aPqftiNzI9xzwpfcfR8uCCifE=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-iEHWteCJvNWM2H+Ny98mYipws5oW1kBG2ctTcwGl98U="
     },
@@ -74,7 +74,7 @@
       "System.Xml.XDocument.wasm": "sha256-SkLHxRQDuXPkfKcHzgklZJ6wYmviCZFB5TDXD7XqeSs=",
       "System.wasm": "sha256-25KTxVbx+rD8S9iyUye7jmbj1e4TZ5Ca+elup4oegJA=",
       "System.Private.CoreLib.wasm": "sha256-601QbluUzGxrleDH8W/xStFxx3y8NOXEeqsH2oz4yaM=",
-      "GrafPractic.wasm": "sha256-FaS3SbzZLW7H7TKmvynUaNO6EiK2x4nzUn6TR67sKDg="
+      "GrafPractic.wasm": "sha256-mupsu9asHBnIf9nCIrtGqWO90olQepcL58/vBzkAe20="
     }
   },
   "cacheBootResources": true,
